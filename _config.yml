@@ -10,9 +10,9 @@ blog_theme: dark # Or use dark
 
 # Profile information
 name: 蓝精灵
-tagline: 职业设计师.喵族
-about-description: 总之非常厉害就对了 # Add Discription
-pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+tagline: 课程设计师.喵族
+about-description: 啦啦啦啦，总而言之一句话，你知道我非常厉害就对了！ # Add Discription
+pic: 求职.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: 164213221@qq.com # Add your Email address
