@@ -7,7 +7,6 @@ baseurl: "/monday" # the subpath of your site, e.g. /blog
 url: "https://bluemomo112.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark
-encoding:utf-8
 
 # Profile information
 name: 蓝精灵
