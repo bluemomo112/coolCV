@@ -1,32 +1,33 @@
-title: Wendell Thomas
-description: > # this means to ignore newlines until "baseurl:"
+title: 蓝精灵
+description: > 这里是蓝精灵的一方领域 # this means to ignore newlines until "baseurl:"
+  相信你不会失望
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/monday" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bluemomo112.github.io/coolCV" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark
 
 # Profile information
-name: Wendell Thomas
-tagline: Full Stack Developer
-about-description: # Add Discription
+name: 蓝精灵
+tagline: 职业设计师.喵族
+about-description: 总之非常厉害就对了 # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: artemsheludko@tuta.io # Add your Email address
-phone: 044 825 5523 # Add your Phone number
-website: artemsheludko.pw # Add your website, do not add http://
+email: 164213221@qq.com # Add your Email address
+phone: xxx xxx xxx # Add your Phone number
+website: https://bluemomo112.github.io/coolCV # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: bluemomo112 # Add your Github handle
+twitter: 'lalala' # Add your Twitter handle
 
 # Tracker
 analytics:
 
 # Comments
-discus-identifier: # Add your Disqus identifier
+discus-identifier: 厉害了word哥 # Add your Disqus identifier
 
 # Important settings
 assets:
