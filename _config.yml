@@ -15,12 +15,12 @@ about-description: 啦啦啦啦，总而言之一句话，你知道我非常厉�
 pic: lan.png  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: 164213221@qq.com # Add your Email address
-phone: xxx xxx xxx # Add your Phone number
+email: 这是我的邮件地址 # Add your Email address
+phone: 这是我的电话号码 # Add your Phone number
 website: https://bluemomo112.github.io/coolCV # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: bluemomo112 # Add your Github handle
-twitter: 'lalala' # Add your Twitter handle
+linkedin: 这是我的简历地址# Add your Linkedin handle
+github: 我的github用户名 # Add your Github handle
+twitter: '微博名称啦哈哈哈哈' # Add your Twitter handle
 
 # Tracker
 analytics:
