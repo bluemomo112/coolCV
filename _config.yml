@@ -5,7 +5,7 @@ description: > 这里是蓝精灵的一方领域 # this means to ignore newlines
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/monday" # the subpath of your site, e.g. /blog
-url: "https://bluemomo112.github.io/coolCV" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bluemomo112.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: dark # Or use dark
 
