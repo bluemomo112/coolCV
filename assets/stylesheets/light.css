@@ -24,7 +24,12 @@ html {
  */
 body {
   margin: 0;
-  color:red;}
+  color: red;
+}
+
+*{
+color: red;
+}
 
 /**
  * Add the correct display in IE 9-.
