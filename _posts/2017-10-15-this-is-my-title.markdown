@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title:  "这是我的标婷"
 description: 这里可以短暂的介绍文章名字！
 img:
